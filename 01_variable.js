@@ -10,3 +10,7 @@ console.log("First name:", firstName);
 
 firstName = "Ratan";
 console.log("First name:", firstName);
+var isMarried = true;
+console.log("isMarried: ", isMarried);
+var typeofIsMarried = typeof isMarried;
+console.log("Type of isMarried:", typeofIsMarried);
