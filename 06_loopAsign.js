@@ -15,7 +15,7 @@ for (let index = 0; index < word.length; index++) {
 
 console.log(` Total number of vowels in given string is:${vowelscount}`);
 console.log("=============Step 2===========");
-//function cubeSum() {
+//function cubeSum(n) {
 var sum = 0;
 
     for (let index = 0; index <= 5; index++) {
@@ -29,7 +29,7 @@ var sum = 0;
     console.log("The numbers are 1,2,3,4,5");
   console.log(` The sum of cube is: ${sum}`); 
     
-   console.log("=============Step 2===========");
+   console.log("=============Step 3===========");
 function oddPositionChars(word) {
     for (let index = 0; index < word.length; index++) {
         const element = word.charAt(index);
